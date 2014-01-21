@@ -1,4 +1,8 @@
-php-dump
-========
+PHP Dump function
+=
 
-Dump function for php
+Simple php dump function
+
+Usage
+-
+	dump( $variable )
